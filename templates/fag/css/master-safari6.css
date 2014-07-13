@@ -1,0 +1,12 @@
+/**
+* @version   $Id: master-safari6.css 20633 2014-04-25 15:59:22Z arifin $
+* @author    RocketTheme http://www.rockettheme.com
+* @copyright Copyright (C) 2007 - 2012 RocketTheme, LLC
+* @license   http://www.rockettheme.com/legal/license.php RocketTheme Proprietary Use License
+*/
+
+/* Navigation */
+.gf-menu .item.icon [class^="icon-"], .gf-menu .item.icon [class*=" icon-"] {-webkit-font-smoothing: inherit;}
+
+/* Canvas */
+canvas {height: auto !important;}

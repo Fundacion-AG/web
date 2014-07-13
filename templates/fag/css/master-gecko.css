@@ -1,0 +1,9 @@
+/**
+* @version   $Id: master-gecko.css 20154 2014-04-05 16:47:01Z arifin $
+* @author    RocketTheme http://www.rockettheme.com
+* @copyright Copyright (C) 2007 - 2012 RocketTheme, LLC
+* @license   http://www.rockettheme.com/legal/license.php RocketTheme Proprietary Use License
+*/
+
+/* Canvas */
+canvas {height: auto !important;}

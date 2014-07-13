@@ -1,0 +1,10 @@
+/**
+* @version   $Id: master-ipad.css 20762 2014-05-01 06:35:44Z arifin $
+* @author    RocketTheme http://www.rockettheme.com
+* @copyright Copyright (C) 2007 - 2012 RocketTheme, LLC
+* @license   http://www.rockettheme.com/legal/license.php RocketTheme Proprietary Use License
+*/
+
+/* Demo FP Showcase */
+body.layout-mode-responsive.menu-home .fp-showcase .fp-showcase-animate .fp-showcase-title {margin-top: 0;-webkit-transform: translateY(0);}
+body.layout-mode-responsive.menu-home .fp-showcase .fp-showcase-animate .fp-showcase-info {opacity: 1;visibility: visible;-webkit-transform: translateY(0);}
